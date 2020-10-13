@@ -17,6 +17,6 @@ public class PrimeNumber {
         }
         d++;
       }
-      System.out.println("PrimeNumber" + prime);
+      System.out.println("Prime number: " + prime);
     }
 }
